@@ -2,10 +2,10 @@
 # from pathlib import Path
 # import logging 
 
-logging.basicConfig(level=logging.INFO, format ='[%(asctime)s]:%(message)s:')
+# logging.basicConfig(level=logging.INFO, format ='[%(asctime)s]:%(message)s:')
 
-"ye aapka kaam asaan kar degga taaki aapko har forlder or files na banai padey"
-list_of_files = [
+# "ye aapka kaam asaan kar degga taaki aapko har forlder or files na banai padey"
+# list_of_files = [
     "src/_init_.py",  
     # its the constructor file
     "src/helper_.py",
