@@ -12,7 +12,7 @@
     # "src/prompt_.py",
     # ".env",
     # it basically gives the functionality 
-    "requirements>txt",
+    # "requirements>txt",
     "setup.py",
     "app.py",
     "research/trials.ipynb"
