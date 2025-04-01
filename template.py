@@ -6,11 +6,11 @@
 
 # "ye aapka kaam asaan kar degga taaki aapko har forlder or files na banai padey"
 # list_of_files = [
-    "src/_init_.py",  
-    # its the constructor file
-    "src/helper_.py",
-    "src/prompt_.py",
-    ".env",
+    # "src/_init_.py",  
+    # # its the constructor file
+    # "src/helper_.py",
+    # "src/prompt_.py",
+    # ".env",
     # it basically gives the functionality 
     "requirements>txt",
     "setup.py",
