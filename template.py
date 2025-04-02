@@ -1,18 +1,18 @@
-# import os
-# from pathlib import Path
-# import logging 
+import os
+from pathlib import Path
+import logging 
 
-# logging.basicConfig(level=logging.INFO, format ='[%(asctime)s]:%(message)s:')
+logging.basicConfig(level=logging.INFO, format ='[%(asctime)s]:%(message)s:')
 
-# "ye aapka kaam asaan kar degga taaki aapko har forlder or files na banai padey"
-# list_of_files = [
-    # "src/_init_.py",  
-    # # its the constructor file
-    # "src/helper_.py",
-    # "src/prompt_.py",
-    # ".env",
-    # it basically gives the functionality 
-    # "requirements>txt",
+"ye aapka kaam asaan kar degga taaki aapko har forlder or files na banai padey"
+list_of_files = [
+    "src/_init_.py",  
+    its the constructor file
+    "src/helper_.py",
+    "src/prompt_.py",
+    ".env",
+    it basically gives the functionality 
+    "requirements>txt",
     "setup.py",
     "app.py",
     "research/trials.ipynb"
